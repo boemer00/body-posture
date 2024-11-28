@@ -1,0 +1,53 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+env/
+venv/
+posture-env/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs and Debugging
+*.log
+*.out
+*.err
+
+# IDE Configurations
+.idea/
+.vscode/
+*.swp
+
+# Operating System Files
+*.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+
+# Media Files (Optional)
+*.mp4
+*.mov
+*.avi
+*.wav
+
+# Dependencies (if using pip)
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pyenv (if applicable)
+.python-version
+
+# TensorFlow / MediaPipe Cache (Optional)
+mediapipe_cache/
+*.tflite
