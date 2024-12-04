@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 
 # Virtual Environment
+.env
 env/
 venv/
 posture-env/
